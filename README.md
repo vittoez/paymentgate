@@ -1,13 +1,22 @@
+# Secure Payment Gateway
 
-Here’s a sample README.md file for your GitHub repository to explain the purpose, setup, and usage of your payment gateway project:
+A lightweight and customizable payment gateway solution using Stripe's API. This project includes a responsive frontend and a secure Node.js backend to handle online payments efficiently and safely. Ideal for integrating simple payment processing into your website or application.
 
-Secure Payment Gateway
-A simple, secure, and customizable payment gateway implementation using Stripe's API. This project includes both frontend and backend components for processing online payments securely.
+---
 
-Features
-Secure Payment Processing: Leverages Stripe for handling sensitive payment data securely.
-Responsive Design: Optimized for various screen sizes with a clean and modern UI.
-Customizable: Easily modify the code to adapt to your business requirements.
-Quick Setup: Includes detailed instructions for both frontend and backend configuration.
+## Features
 
-Feel free to replace yourusername in the clone URL with your actual GitHub username, and modify any sections to suit your repository's style.
+- **Secure Payment Processing**: Leverages Stripe's API for handling sensitive payment data securely.
+- **Responsive Design**: Optimized for various screen sizes with a clean and modern UI.
+- **Customizable**: Easily modify the code to adapt to your business requirements.
+- **Quick Setup**: Includes detailed instructions for both frontend and backend configuration.
+
+---
+
+## Technologies Used
+
+- **Frontend**: HTML, CSS (Responsive Design)
+- **Backend**: Node.js
+- **API**: Stripe's Payment API
+
+---
